@@ -1,18 +1,9 @@
-# tinyCURL
+<?php
 
-tinyCURL is cURL easfier tool for PHP development
+/**
+ * Open built-in HttpServer here and test experiencing it
+ */
 
-## Installation
-
-Use composer to install tinyCURL.
-
-```bash
-composer require muffinweb/tinycurl
-```
-
-## Usage
-
-```php
 //Composer Autoload
 require './../vendor/autoload.php';
 

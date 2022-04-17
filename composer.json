@@ -1,0 +1,21 @@
+{
+    "name": "muffinweb/tinycurl",
+    "description": "cURL easfier for PHP development process",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "^9.5",
+        "larapack/dd": "*"
+    },
+    "license": "The Unlicensed",
+    "authors": [
+        {
+            "name": "muffinweb",
+            "email": "ugurcengiz.mail@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Muffinweb\\": "src/"
+        }
+    }
+}
