@@ -6,7 +6,7 @@
         "phpunit/phpunit": "^9.5",
         "larapack/dd": "*"
     },
-    "license": "The Unlicensed",
+    "license": "Unlicense",
     "authors": [
         {
             "name": "muffinweb",
