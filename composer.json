@@ -6,8 +6,7 @@
         "phpunit/phpunit": "^9.5",
         "larapack/dd": "*"
     },
-    "minimum-stability": "dev",
-    "prefer-stable": true,
+    "minimum-stability": "stable",
     "license": "Unlicense",
     "authors": [
         {
